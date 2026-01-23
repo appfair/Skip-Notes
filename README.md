@@ -1,7 +1,7 @@
 # SkipNotes
 
-Skip notes is a [Skip Fuse](https://skip.tools) dual-platform note taking app
-built using [Skip](https://skip.tools)
+Skip notes is a [Skip Fuse](https://skip.dev) dual-platform note taking app
+built using [Skip](https://skip.dev)
 and distributed through the [App Fair](https://appfair.org).
 
 <div align="center">
@@ -50,7 +50,7 @@ The general flow for contributing to this and any other Skip package is:
 
 1. Fork this repository and enable actions from the "Actions" tab
 2. Check out your fork locally
-3. When developing alongside a Skip app, add the package to a [shared workspace](https://skip.tools/docs/contributing) to see your changes incorporated in the app
+3. When developing alongside a Skip app, add the package to a [shared workspace](https://skip.dev/docs/contributing) to see your changes incorporated in the app
 4. Push your changes to your fork and ensure the CI checks all pass in the Actions tab
 5. Add your name to the Skip [Contributor Agreement](https://github.com/skiptools/clabot-config)
 6. Open a Pull Request from your fork with a description of your changes
